@@ -1,0 +1,11 @@
+Content-Type: text/html
+Server: Server
+Date: Thu, 16 May 2019 09:30:33 GMT
+Vary: Content-Type,Host,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+Edge-Control: no-store
+Content-Encoding: gzip
+X-Amz-Rid: A65V64PCK36NKPKKBB7X
+Cache-Control: no-transform
+X-Cache: Error from cloudfront
+Via: 1.1 0e9493f2bcf9035541b227fce2ae5798.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: 2Dn07nAbNOgHvCKjEVvjjypvyAhrcpDlgZxB9yFbxIE7bcTL0SHJ_Q==
